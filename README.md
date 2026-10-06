@@ -12,7 +12,7 @@ This project analyses retail order data to understand what drives sales and prof
 - **Type:** Simulated retail (superstore-style) dataset generated with a fixed random seed (`seed=42`) so results are reproducible. The notebook regenerates the file automatically if it is missing.
 - **Columns:** Order_ID, Order_Date, Customer_ID, Segment, Region, Category, Quantity, Unit_Price, Discount, Sales, Profit
 - **Data quality:** a few missing values (Region, Discount) and duplicate rows are included on purpose to demonstrate data cleaning.
-- **Dataset link:** https://github.com/Mamatha260407/retail-sales-analysis-ai/blob/main/retail_sales_data.csv  *(replace with your repository link after upload)*
+- **Dataset link:** https://github.com/Mamatha260407/retail-sales-analysis-ai/blob/main/retail_sales_data.csv  
 
 ## Technologies Used
 Python 3, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
